@@ -1,11 +1,23 @@
 {
   "name": "@inoutch/semantic-release-demo",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
     "semantic-release": "^15.4.2",
     "semantic-release-cli": "^4.0.1"
   },
-  "private": false
+  "private": false,
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inoutch/semantic-release-demo.git"
+  },
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  }
 }
