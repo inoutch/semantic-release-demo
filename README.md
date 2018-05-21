@@ -1,5 +1,5 @@
 # semantic-release-demo
-[![CircleCI](https://circleci.com/gh/inoutch/semantic-release-demo.svg?style=svg)](https://circleci.com/gh/inoutch/semantic-release-demo)
+[![CircleCI](https://circleci.com/gh/inoutch/semantic-release-demo.svg?style=shield)](https://circleci.com/gh/inoutch/semantic-release-demo)
 
 ### semantic-releaseとは?
 
