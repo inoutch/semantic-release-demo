@@ -10,14 +10,12 @@
     "semantic-release-cli": "^4.0.1"
   },
   "private": false,
-  "scripts": {
-    "semantic-release": "semantic-release"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/inoutch/semantic-release-demo.git"
   },
   "scripts": {
-    "test": "mocha test/*.test.js"
+    "test": "mocha test/*.test.js",
+    "semantic-release": "semantic-release"
   }
 }
