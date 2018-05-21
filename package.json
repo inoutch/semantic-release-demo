@@ -1,0 +1,11 @@
+{
+  "name": "@inoutch/semantic-release-demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^15.4.2",
+    "semantic-release-cli": "^4.0.1"
+  },
+  "private": false
+}
