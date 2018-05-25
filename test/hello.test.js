@@ -6,6 +6,6 @@ describe('helloworld', () => {
     expect(helloModule.helloworld()).to.equal("hello world");
   });
   it('return goodnight', () => {
-    expect(helloModule.goodnight()).to.equal("goodnight");
+    expect(helloModule.goodnight()).to.equal("good night");
   });
 });
