@@ -3,7 +3,7 @@ const helloModule = require('../index');
 
 describe('helloworld', () => {
   it('return helloworld', () => {
-    expect(helloModule.helloworld()).to.equal("helloworld");
+    expect(helloModule.helloworld()).to.equal("hello world");
   });
   it('return goodnight', () => {
     expect(helloModule.goodnight()).to.equal("goodnight");
