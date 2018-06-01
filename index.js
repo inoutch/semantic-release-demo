@@ -1,3 +1,3 @@
-var helloModules = require('./lib/helloModules');
+const helloModules = require('./lib/helloModules');
 
 module.exports = helloModules;
