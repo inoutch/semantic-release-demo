@@ -25,7 +25,8 @@
         "path": "@semantic-release/changelog",
         "changelogFile": "CHANGELOG.md"
       },
-      "@semantic-release/git"
+      "@semantic-release/git",
+      "@semantic-release/npm"
     ]
   }
 }
