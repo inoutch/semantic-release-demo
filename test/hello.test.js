@@ -2,7 +2,7 @@ const expect = require('chai').expect;
 const helloModule = require('../index');
 
 describe('helloworld', () => {
-  it('return helloworld', () => {
+  it('return helloworld1', () => {
     expect(helloModule.helloworld()).to.equal("hello world");
   });
   it('return goodnight', () => {
