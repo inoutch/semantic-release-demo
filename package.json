@@ -8,7 +8,7 @@
     "@semantic-release/git": "^5.0.0",
     "chai": "^4.1.2",
     "mocha": "^5.2.0",
-    "semantic-release": "^15.4.2",
+    "semantic-release": "^15.5.0",
     "semantic-release-cli": "^4.0.1"
   },
   "private": false,
@@ -24,7 +24,7 @@
     "prepare": [
       {
         "path": "@semantic-release/changelog",
-        "changelogFile": "docs/changelog.md"
+        "changelogFile": "CHANGELOG.md"
       },
       "@semantic-release/git"
     ]
