@@ -1,3 +1,11 @@
+<a name="2.1.3"></a>
+## [2.1.3](https://github.com/inoutch/semantic-release-demo/compare/v2.1.2...v2.1.3) (2018-06-01)
+
+
+### Bug Fixes
+
+* **npm:** replace npm to yarn ([c8ff0bf](https://github.com/inoutch/semantic-release-demo/commit/c8ff0bf))
+
 <a name="2.1.2"></a>
 ## [2.1.2](https://github.com/inoutch/semantic-release-demo/compare/v2.1.1...v2.1.2) (2018-06-01)
 
