@@ -17,5 +17,14 @@
   "scripts": {
     "test": "mocha test/*.test.js",
     "semantic-release": "semantic-release"
+  },
+  "release": {
+    "prepare": [
+      {
+        "path": "@semantic-release/changelog",
+        "changelogFile": "docs/changelog.md",
+      },
+      "@semantic-release/git"
+    ]
   }
 }
