@@ -28,5 +28,6 @@
       "@semantic-release/npm",
       "@semantic-release/git"
     ]
-  }
+  },
+  "version": "2.2.1"
 }
