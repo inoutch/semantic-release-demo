@@ -1,3 +1,11 @@
+<a name="2.1.4"></a>
+## [2.1.4](https://github.com/inoutch/semantic-release-demo/compare/v2.1.3...v2.1.4) (2018-06-01)
+
+
+### Bug Fixes
+
+* **version:** remove version in package.json ([0e41640](https://github.com/inoutch/semantic-release-demo/commit/0e41640))
+
 <a name="2.1.3"></a>
 ## [2.1.3](https://github.com/inoutch/semantic-release-demo/compare/v2.1.2...v2.1.3) (2018-06-01)
 
